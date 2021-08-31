@@ -1,0 +1,43 @@
+.here{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr); 
+	grid-gap: 10px;
+}
+.pop0{
+   background: #EFF0A6;
+   height: 600px;
+	width: 400px;
+	box-shadow: 30px 30px 40px black;
+}
+.pop1{
+	background: #F3AAAA;
+	height: 600px;
+	width: 400px;
+	box-shadow: 30px 30px 40px black; 
+}
+.pop2{
+	background: #D9A5F7;
+	height: 600px;
+	width: 400px;
+	box-shadow: 30px 30px 40px black;
+}
+.pop3{
+	background: #BFE1F5;
+	height: 600px;
+	width: 400px;
+	box-shadow: 30px 30px 40px black;
+}
+ul{
+  list-style-type: none;
+ text-align: center;
+ margin-top: 100px;
+
+}
+ul li{
+  font-size: 30px;
+}
+h2{
+  text-align: center ;
+  font-weight: 900;
+  margin-top: 50px;
+}
